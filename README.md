@@ -81,6 +81,7 @@ assign f7=~(a^b);
 endmodule
 ```
  Developed by: SARAN RAJ M
+ 
  RegisterNumber: 212225240138
  
 **Logic symbol & Truthtable**
